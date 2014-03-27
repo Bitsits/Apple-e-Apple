@@ -22,6 +22,9 @@ If you have problems getting the game to run. You should install:
 ##Music
 Track [Peace](http://www.jamendo.com/en/track/584823) from Album [Peace](http://www.jamendo.com/en/album/67461) by [Daichen](http://www.jamendo.com/en/artist/Daichen_Shirohige) under [Creative Commons Attribution-Noncommercial-Share Alike 2.1 Japan](http://creativecommons.org/licenses/by-nc-sa/2.1/jp/) 
 
+##Sound Effects
+Sound effects are licensed under [Creative Commons Sampling Plus 1.0 License](http://creativecommons.org/licenses/sampling+/1.0/).
+
 ##Physics
 The game uses [Erin Catto’s Box2D physics engine](http://www.box2d.org/) under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
