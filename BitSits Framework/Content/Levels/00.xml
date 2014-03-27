@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[Microsoft.Xna.Framework.Vector2]">
+    <!--Apple Target-->
+    1 1
+    
+    <!--Apples-->
+    300 300
+    
+    <!--Targets-->
+    600 100
+    
+    <!--Ground Fixtures-->
+    -800 600 -800 -600
+    -800 -600 1600 -600
+    1600 -600 1600 600
+    
+    11 27
+    168 57
+
+    168 57
+    471 57
+
+    471 57
+    542 46
+    
+    542 46
+    791 22
+    
+    429 314
+    429 57
+
+    429 314
+    471 314
+
+    471 314
+    471 57
+  </Asset>
+</XnaContent>
