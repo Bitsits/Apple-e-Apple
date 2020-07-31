@@ -1,11 +1,17 @@
 Apple e Apple
 ===
-Here is my another [Experimental Gameplay Project] for the theme [Two Months of CASUAL ADDICTION](http://experimentalgameplay.com/blog/2010/06/two-months-of-casual-addiction/). In the game you have to grow an apple tree and lots of apples before you collect all the arrows.
+Here is my another [Experimental Gameplay Project] for the theme [Two Months of CASUAL ADDICTION][theme]. In the game you have to grow an apple tree and lots of apples before you collect all the arrows.
 
+Screenshots
+---
+
+![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple/master/Blog/Apple%20e%20Apple1.png)
+![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple/master/Blog/Apple%20e%20Apple2.png)
+![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple/master/Blog/Apple%20e%20Apple3.png)
 
 Download Executable
 ---
-[Apple e Apple.zip (5.33 MB)](https://github.com/BitSits/Apple-e-Apple/raw/master/Apple%20e%20Apple.zip)
+[Apple e Apple.zip][zip] (5.33 MB)
 
 
 Instructions
@@ -35,7 +41,10 @@ Credits
 
 License
 ---
-This work by [BitSits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
+
+![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple/master/Blog/cc.png)
+
+This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 
 Reviews
@@ -52,19 +61,23 @@ Reviews
 [XNA Stater Kit: Platformer]:http://msdn.microsoft.com/en-us/library/dd254918.aspx
 [Microsoft Permissive License.rtf]:http://creators.xna.com/downloads/?id=15
 
-[MIT License]:http://www.opensource.org/licenses/mit-license.php
-
+[MIT License]: http://www.opensource.org/licenses/mit-license.php
 [Creative Commons Sampling Plus 1.0 License]:http://creativecommons.org/licenses/sampling+/1.0/
-[Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic France]:http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
-[Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic]:http://creativecommons.org/licenses/by-nc/2.0/
-[Creative Commons Attribution-Noncommercial-Share Alike 2.1 Japan]:http://creativecommons.org/licenses/by-nc-sa/2.1/jp/
-[Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Brazil]:http://creativecommons.org/licenses/by-nc-sa/2.5/br/
-[Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License]:http://creativecommons.org/licenses/by-nc-nd/3.0/
-[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]:http://creativecommons.org/licenses/by-nc-sa/3.0/
-[Creative Commons Attribution-ShareAlike 3.0 Unported License]:http://creativecommons.org/licenses/by-sa/3.0/
+[Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic France]: http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
+[Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic]: http://creativecommons.org/licenses/by-nc/2.0/
+[Creative Commons Attribution-Noncommercial-Share Alike 2.1 Japan]: http://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+[Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Brazil]: http://creativecommons.org/licenses/by-nc-sa/2.5/br/
+[Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-nd/3.0/
+[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
+[Creative Commons Attribution-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-sa/3.0/
 
-[Experimental Gameplay Project]:http://experimentalgameplay.com/
+[Bitsits Games]: https://bitsits.blogspot.com
+[Shubhajit Saha]: https://suvozit.blogspot.com
+[Maya Agarwal]: https://mayaagarwal.blogspot.com
 
-[BitSits Games]:http://bitsitsgames.com/
-[Shubhajit Saha]:http://suvozit.com/
-[Maya Agarwal]:http://maya-agarwal.tumblr.com/
+[Experimental Gameplay Project]: http://experimentalgameplay.com/
+[theme]: http://experimentalgameplay.com/blog/2010/06/two-months-of-casual-addiction/
+[zip]: https://github.com/BitSits/Apple-e-Apple/raw/master/Apple%20e%20Apple.zip
+
+[Blogger](http://bitsits.blogspot.com/2010/06/apple-e-apple.html)
+[Tumblr](https://bitsits.tumblr.com/post/96182973320/apple-e-apple-here-is-my-another-experimental)
