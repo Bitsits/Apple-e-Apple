@@ -5,9 +5,9 @@ Here is my another [Experimental Gameplay Project] for the theme [Two Months of 
 Screenshots
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple/master/Blog/Apple%20e%20Apple1.png)
-![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple/master/Blog/Apple%20e%20Apple2.png)
-![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple/master/Blog/Apple%20e%20Apple3.png)
+![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple-Assets/master/Blog/Apple%20e%20Apple1.png)
+![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple-Assets/master/Blog/Apple%20e%20Apple2.png)
+![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple-Assets/master/Blog/Apple%20e%20Apple3.png)
 
 Download Executable
 ---
@@ -20,7 +20,7 @@ The goal of the game is to grow apples as many as you can before collecting all 
 
 Use left mouse button to drag and grow a branch or an auxiliary branch and right mouse button to trim the branch. Avoid walls and ground. Growing and trimming will drop and grow all the apples. To drop single apple grow a branch from its node.
 
-ESC – Will pause the game.
+<kbd>ESC</kbd> – Will pause the game.
 
 
 Troubleshooting
@@ -42,7 +42,7 @@ Credits
 License
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple/master/Blog/cc.png)
+![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple-Assets/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -62,7 +62,7 @@ Reviews
 [Microsoft Permissive License.rtf]: http://creators.xna.com/downloads/?id=15
 
 [MIT License]: http://www.opensource.org/licenses/mit-license.php
-[Creative Commons Sampling Plus 1.0 License]:http://creativecommons.org/licenses/sampling+/1.0/
+[Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic]: http://creativecommons.org/licenses/by-nc/2.0/
 [Creative Commons Attribution-Noncommercial-Share Alike 2.1 Japan]: http://creativecommons.org/licenses/by-nc-sa/2.1/jp/
 [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-nd/3.0/
@@ -74,7 +74,7 @@ Reviews
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/06/two-months-of-casual-addiction/
-[zip]: https://github.com/BitSits/Apple-e-Apple/raw/master/Apple%20e%20Apple.zip
+[zip]: https://github.com/BitSits/Apple-e-Apple-Assets/raw/master/Apple%20e%20Apple.zip
 
 [Blogger](https://bitsits.blogspot.com/2010/06/apple-e-apple.html)
 [Tumblr](https://bitsits.tumblr.com/post/96182973320/apple-e-apple-here-is-my-another-experimental)
