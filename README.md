@@ -4,10 +4,9 @@ Here is my another [Experimental Gameplay Project] for the theme [Two Months of 
 
 Screenshots
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple-Assets/master/Blog/Apple%20e%20Apple1.png)
-![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple-Assets/master/Blog/Apple%20e%20Apple2.png)
-![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple-Assets/master/Blog/Apple%20e%20Apple3.png)
+![](https://github.com/Bitsits/Apple-e-Apple-Assets/raw/master/Blog/Apple%20e%20Apple1.png)
+![](https://github.com/Bitsits/Apple-e-Apple-Assets/raw/master/Blog/Apple%20e%20Apple2.png)
+![](https://github.com/Bitsits/Apple-e-Apple-Assets/raw/master/Blog/Apple%20e%20Apple3.png)
 
 Download Executable
 ---
@@ -41,11 +40,9 @@ Credits
 
 License
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Apple-e-Apple-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Apple-e-Apple-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 Reviews
 ---
