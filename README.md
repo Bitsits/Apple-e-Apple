@@ -71,7 +71,7 @@ Reviews
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/06/two-months-of-casual-addiction/
-[zip]: https://github.com/BitSits/Apple-e-Apple-Assets/raw/master/Apple%20e%20Apple.zip
+[zip]: https://github.com/Bitsits/Apple-e-Apple-Assets/raw/master/Apple%20e%20Apple.zip
 
 [Blogger](https://bitsits.blogspot.com/2010/06/apple-e-apple.html)
 [Tumblr](https://bitsits.tumblr.com/post/96182973320/apple-e-apple-here-is-my-another-experimental)
